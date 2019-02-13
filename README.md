@@ -6,3 +6,4 @@ load one image to do binary and do histogram equalization
 use Scale to select binary value and show image after binary
 
 ## Histogram Equalization
+load image and click button to show image after doing historgram equalization
